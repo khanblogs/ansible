@@ -1,3 +1,4 @@
+#CREATE EC2 WITH ANSIBLE 
 - hosts: localhost
   tasks:
     - ec2:
